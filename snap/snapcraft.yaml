@@ -1,5 +1,5 @@
 name: hugo
-version: git
+version: '0.102.1'
 issues: https://github.com/gohugoio/hugo/issues
 source-code: https://github.com/gohugoio/hugo.git
 website: https://gohugo.io/
